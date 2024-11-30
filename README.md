@@ -275,7 +275,7 @@ Funcion ( ) +1
       camping eqiument
         xbox division 2 + 1 ("0headset0")
       bonfire
-        fore allc itemS.bonfireS saturation 0.05
+        fore allc itemS.bonfireS color 0.05
       wait
       /with
         keywords: {
