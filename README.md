@@ -1,10 +1,10 @@
 [.com/http://https://4444://websokjes://aquariuswatercooled
 {
-  
+  e $
 }
 ]
 
-biffer iq
+i buffer iq
 stevejobs steps -1 sprinng field pipeline windmille deveation bublelight commadity+1
 
 do
